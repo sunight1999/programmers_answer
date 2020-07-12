@@ -1,2 +1,2 @@
 # programmers_answer
-programmers 고득점 kit 풀이
+programmers 코딩테스트 연습 
